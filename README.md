@@ -7,8 +7,8 @@ This project is a simple yet powerful password generator built using **Python an
 
 ### 🖥️ Preview
 
-> A graphical app with input fields, checkboxes, and a generated password output.  
-> User-friendly, no terminal required!
+- A graphical app with input fields, checkboxes, and a generated password output.
+- User-friendly, no terminal required!
 
 ---
 
@@ -55,7 +55,26 @@ This project is a simple yet powerful password generator built using **Python an
 
 ---
 
+
 ## ✨ Visualization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 📸 ![App Screenshot](screenshot.png)
 
